@@ -16,7 +16,7 @@ SS Exodus - 5a
 The Machine - 5b  
 Golgotha - 5c  
   
-The Future  
+<b>The Future</b>  
 Anguish - 1d  
 Gloom - 2d  
 Blight - 3d  
@@ -24,7 +24,7 @@ Ruin - 4d
 Acceptance - 5d  
 Nevermore - 6d  
 
-normal carts  
+<b>Normal Carts</b>  
 MORTAMAN - c1  
 BLASTER MASSACRE - c2  
 RIVER CITY RANCID - c3  
@@ -36,14 +36,14 @@ RUBBLE BOBBLE - c8
 MORBID GEAR - c9  
 SUPER MEGA CART! - c10  
 
-iron carts  
+<b>Iron Carts</b>  
 DENIAL - i1  
 ANGER - i2  
 BARGAINING - i3  
 DEPRESSION - i4  
 ACCEPTANCE - i5  
   
-glitch carts  
+<b>Glitch Carts</b>  
 SCAB OR DIE! - g1  
 TOMBS & TORTURE - g2  
 PUS-MAN - g3  
