@@ -34,7 +34,7 @@ ASH CLIMBER - c4a
 FALLEN FANTASY - c5a  
 RUBBLE BOBBLE - c4b  
 MORBID GEAR - c5b  
-SUPER MEGA CART! - c6  
+SUPER MEGA CART!(mystery castle) - c6  
 
 <b>Iron Carts</b>  
 DENIAL - i1  
