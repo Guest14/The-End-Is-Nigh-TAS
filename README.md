@@ -1,6 +1,8 @@
 # The-End-Is-Nigh-TAS
 TAS files for The End Is Nigh
 
+Contributors: Ikod, Guest_
+
 # area id
 
 These are not the same as the actual area ids in the game
