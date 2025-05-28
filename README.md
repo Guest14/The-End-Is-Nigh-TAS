@@ -51,3 +51,6 @@ GHOSTS N GRIEVING - g4
 DEAD RACER - g5  
 SPIKE TALES - g6  
 THE END IS NIGH - g7  
+
+# How to extract ltm files
+change .ltm to .tar.gz and unzip it
