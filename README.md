@@ -5,7 +5,7 @@ TAS files for The End Is Nigh
 
 These are not the same as the actual area ids in the game
 
-The Past   
+<b>The Past</b>   
 The End - 1  
 Arid Flats - 2  
 Overflow - 3  
