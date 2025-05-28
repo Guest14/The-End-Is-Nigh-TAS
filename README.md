@@ -55,4 +55,5 @@ SPIKE TALES - g6
 THE END IS NIGH - g7  
 
 # How to extract ltm files
-change .ltm to .tar.gz and unzip it
+you will have to extract input files from ltm files in order to merge ltm files
+just change .ltm to .tar.gz and unzip it
