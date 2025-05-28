@@ -6,7 +6,7 @@ TAS files for The End Is Nigh
 These are not the same as the actual area ids in the game
 
 The Past
-The End - 1
+The End - 1\n
 Arid Flats - 2
 Overflow - 3
 Wall of Sorrow - 4a
